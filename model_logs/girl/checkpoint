@@ -1,6 +1,0 @@
-model_checkpoint_path: "snap-300"
-all_model_checkpoint_paths: "snap-100"
-all_model_checkpoint_paths: "snap-150"
-all_model_checkpoint_paths: "snap-200"
-all_model_checkpoint_paths: "snap-250"
-all_model_checkpoint_paths: "snap-300"
