@@ -1,7 +1,7 @@
 # Generative Image 
 
 
-Example inpainting results of our method on images of natural scene (Places2), face (CelebA) and object (ImageNet). Missing regions are shown in white. In each pair, the left is input image and right is the direct output of our trained generative neural networks without any post-processing.
+....
 
 ## Run
 
